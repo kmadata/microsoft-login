@@ -160,4 +160,13 @@ hr{
     text-decoration: none;
 }
 
+/* media query */
+
+@media screen and (min-width:400px) {
+    .wrapper{
+        
+    }
+    
+}
+
 
